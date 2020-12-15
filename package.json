@@ -1,0 +1,23 @@
+{
+  "name": "bermuda-acc-gen",
+  "version": "1.0.0",
+  "description": "Generate accounts with a discord bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "nodejs-hot-reload": "^0.1.2"
+  },
+  "scripts": {
+    "test": "help"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bermudasshhh"
+  },
+  "keywords": [
+    "generator"
+  ],
+  "author": "Bermuda",
+  "license": "ISC"
+}
